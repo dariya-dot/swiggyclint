@@ -167,12 +167,13 @@ body {
   width: 100px;
 }
 
-@media (max-width: 1020px) {
+@media (max-width: 1100px) {
   .topbarcollection {
     justify-content: space-around;
   }
   .landingsection {
     padding-left: 40px;
+    padding-right: 40px;
   }
   .itemImages img,
   .itemImages h5 {
